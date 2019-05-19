@@ -1,0 +1,3 @@
+[submodule "echoes/tracker"]
+	path = echoes/tracker
+	url = https://github.com/SpaghettiToastBook/echoes-item-tracker.git
