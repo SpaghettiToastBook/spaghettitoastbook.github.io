@@ -1,3 +1,6 @@
 [submodule "echoes/tracker"]
 	path = echoes/tracker
 	url = https://github.com/SpaghettiToastBook/echoes-item-tracker.git
+[submodule "super/item-checklist"]
+	path = super/item-checklist
+	url = https://github.com/SpaghettiToastBook/super-metroid-item-checklist.git
