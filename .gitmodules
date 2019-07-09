@@ -4,3 +4,6 @@
 [submodule "super/item-checklist"]
 	path = super/item-checklist
 	url = https://github.com/SpaghettiToastBook/super-metroid-item-checklist.git
+[submodule "timer"]
+	path = timer
+	url = https://github.com/SpaghettiToastBook/timer.git
